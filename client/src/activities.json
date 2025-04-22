@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Vieux Port", "img": "vieux-port.jpg" },
+  { "id": 2, "name": "Fort de Pomègues", "img": "fort-de-pomegues.jpg" },
+  { "id": 3, "name": "Îles du Frioul", "img": "iles-de-frioul.jpg" },
+  { "id": 4, "name": "Parc National des Canlanques", "img": "parc-national-des-canlaques.jpg" },
+  { "id": 5, "name": "Notre-Dame-de-la-Garde", "img": "notre-dame-de-la-garde.jpg" },
+  { "id": 6, "name": "Parc Longchamp", "img": "parc-longchamp.jpg" }
+]

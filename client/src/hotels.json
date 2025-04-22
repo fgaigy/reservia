@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Auberge la Cannebière",
+    "tarif": 25,
+    "stars": 4,
+    "img": "hotel1.jpg",
+    "rates": 5
+  },
+  { "id": 2, "name": "Hôtel du port", "tarif": 52, "stars": 5, "img": "hotel2.jpg", "rates": 5 },
+  {
+    "id": 3,
+    "name": "Hôtel Les mouettes",
+    "tarif": 76,
+    "stars": 5,
+    "img": "hotel3.jpg",
+    "rates": 5
+  },
+  { "id": 4, "name": "Hôtel de la mer", "tarif": 46, "stars": 3, "img": "hotel4.jpg", "rates": 5 },
+  {
+    "id": 5,
+    "name": "Auberge Le Panier",
+    "tarif": 23,
+    "stars": 4,
+    "img": "hotel5.jpg",
+    "rates": 5
+  },
+  { "id": 6, "name": "Hôtel Chez Amina", "tarif": 96, "stars": 5, "img": "hotel6.jpg", "rates": 5 },
+  {
+    "id": 7,
+    "name": "Hôtel Le soleil du matin",
+    "tarif": 128,
+    "stars": 5,
+    "img": "hotel7.jpg",
+    "rates": 8
+  },
+  {
+    "id": 8,
+    "name": "Au coeur de l'eau Chambre d'hôtes",
+    "tarif": 71,
+    "stars": 4,
+    "img": "hotel2.jpg",
+    "rates": 9
+  },
+  {
+    "id": 9,
+    "name": "Hôtel Tout bleu et Blanc",
+    "tarif": 68,
+    "stars": 4,
+    "img": "hotel3.jpg",
+    "rates": 9.5
+  }
+]
