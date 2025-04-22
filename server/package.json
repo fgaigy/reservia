@@ -1,0 +1,11 @@
+{
+  "name": "reservia",
+  "version": "2.0.1",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
